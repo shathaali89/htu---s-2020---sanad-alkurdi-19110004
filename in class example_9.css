@@ -1,0 +1,29 @@
+/* #head1 {
+    color: blue;
+    font-size: 15px;
+    text-decoration: underline;
+    line-height: 20px;
+} */
+
+h1, h2, p {
+    font-family: cursive;
+    color: darkblue;
+    font-size: 20px;
+    line-height: 45px;
+    font-style: italic;
+    background-color: pink;
+}
+
+.img {
+    width: 400px;
+    height: 200px;
+    opacity: 0.81;
+}
+
+body {
+    background-image: url(https://images.pexels.com/photos/53594/blue-clouds-day-fluffy-53594.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
